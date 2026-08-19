@@ -698,7 +698,7 @@ Users applying this code to clinical data are responsible for ensuring complianc
 
 ---
 
-# 14. Code availability
+# 12. Code availability
 
 The custom code supporting the main preprocessing, delta-dosiomics analysis, machine-learning, 3D deep-learning, and performance-evaluation workflows is provided in this repository.
 
@@ -711,7 +711,7 @@ For the associated manuscript, a suitable Code Availability statement is:
 ---
 
 
-# 15. Contact
+# 13. Contact
 
 For questions regarding the code, preprocessing workflow, or model implementation, please contact the corresponding author listed in the associated publication.
 
