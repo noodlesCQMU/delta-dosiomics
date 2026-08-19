@@ -676,19 +676,8 @@ The XGBoost workflow additionally requires the XGBoost interface used by the pro
 
 `Deep_learning/params.mat` contains pretrained parameters used to initialize the 3D ResNet-50.
 
-Because this file is larger than the normal GitHub per-file Git limit, it should be distributed through either:
-
-- Git LFS, or
-- an external persistent repository such as Zenodo.
-
-The accompanying third-party license in:
-
-```text
-Deep_learning/license.txt
-```
-
-must be retained when redistributing the pretrained model assets.
-
+Because this file is larger than the normal GitHub per-file Git limit, it could be get from :
+https://ww2.mathworks.cn/matlabcentral/fileexchange/87427-pre-trained-3d-resnet-50
 ---
 
 # 11. Data privacy
